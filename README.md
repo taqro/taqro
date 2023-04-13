@@ -11,12 +11,5 @@
 [![](https://raw.githubusercontent.com/taqro/taqro/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/taqro/taqro/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-# My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/taqro/posts.svg)](http://qiita.com/taqro)
-# My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/taqro/contributions.svg)](http://qiita.com/taqro)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/taqro/followers.svg)](http://qiita.com/taqro)
                 
 
